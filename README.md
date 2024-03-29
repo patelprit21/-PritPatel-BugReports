@@ -1,4 +1,4 @@
-# -PritPatel-BugReports
+# PritPatel-BugReports
 
 This repository contains bug reports and feature requests for various software applications.
 I decided to make this is behind improve and enhanced the user experience as well as for Companies,
